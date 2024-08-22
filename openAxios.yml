@@ -1,0 +1,17 @@
+name: openAxios
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python == 3.11.6
+  - ipykernel
+  - jupyter
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+
+
+
+
+prefix: /Users/alexcoxe/.anaconda3/envs/openAxios
